@@ -37,7 +37,9 @@
 
 ## Supervised Learning
 - Linear Regression
+- Support Vector Regression
 - Logistic Regression
+- Support Vector Machine
 - Decision Trees and Random Forests
 - Evaluation Metrics for Classification and Regression
 
