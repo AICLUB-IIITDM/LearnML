@@ -39,8 +39,8 @@
 - Linear Regression
 - Support Vector Regression
 - Logistic Regression
-- Support Vector Machine
-- Decision Trees and Random Forests
+- Support Vector Machine ( Sai Kiran ) 
+- Decision Trees and Random Forests 
 - Evaluation Metrics for Classification and Regression
 
 ## Unsupervised Learning
