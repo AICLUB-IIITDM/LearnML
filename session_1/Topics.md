@@ -4,11 +4,7 @@
 - Variables ,Numbers ,String,user I/O
 - Data types 
 - list 
-- conditional statements(if   else)
-- loops(for and while )
-- user defined functions 
+- conditional statements(if else)
+- loops(for and while)
 - modules in python 
 - dictionary and tuples
-- reading and writing files 
-- exception handling
-- classes and objects
