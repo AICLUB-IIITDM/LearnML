@@ -1,4 +1,4 @@
-# Session 1: Introduction to Python and Essential Concepts
+# Session 1: Kick Start AI learning journey
 
 ## Why Choose Python?
 - Exploring the Advantages of Python as a Programming Language
