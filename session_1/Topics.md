@@ -14,7 +14,7 @@
   - factorial
 ## Introduction to Git and Github
 ## Introduction to google Colab and kaggle
-## INtroduction to Machine Learning and AI
+## Introduction to Machine Learning and AI
 ## Bulid your first machine learning model with sklearn
 ### PS: There are many exciting things that are about to happen in this session
 
