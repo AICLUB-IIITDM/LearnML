@@ -8,3 +8,6 @@
 - loops(for and while)
 - modules in python 
 - dictionary and tuples
+- User Defined Functions
+  - Data Struture Manipulation in a function
+  - factorial 
